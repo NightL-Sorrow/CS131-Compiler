@@ -1,7 +1,7 @@
 Compiler Projects For Cool Language
 Information
 ======
-The repo contains source code for Cool Compiler (which comes from UC Berkeley)
+The repo contains source code for Cool Compiler Projects (which comes from compiler course of UC Berkeley).
 
 The code is written in Fall 2018 and there are bugs in PA1, PA2 and PA4 is memoryleaked.
 
@@ -9,11 +9,11 @@ Tools-bin contains standard cool compiler and cool-support contains structures/u
 
 To use the code
 ======
-Generate lexer with Flex;
+Generate lexer with Flex
 
-Generate parser with bison;
+Generate parser with bison
 
-Put cool-support in the right folder to run Makefile;
+Put cool-support in the right folder to run Makefile
 
 Disclaimer
 ======
